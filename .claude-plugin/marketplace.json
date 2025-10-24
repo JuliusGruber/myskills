@@ -38,6 +38,15 @@
         "./theme-factory",
         "./brand-guidelines"
       ]
+    },
+    {
+      "name": "custom-skills",
+      "description": "Your personal custom skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./my-prompts"
+      ]
     }
   ]
 }
