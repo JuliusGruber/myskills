@@ -1,6 +1,6 @@
 # usefulSkills
 
-A collection of personal [Claude Code](https://github.com/anthropics/claude-code) skills.
+A curated collection of coding agent skills — some written personally, others adapted from the wider community.
 
 ## Skills
 
@@ -20,4 +20,4 @@ Adapted from [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/
 
 ## Using these skills
 
-Drop the skill directory into `~/.claude/skills/` (or a project's `.claude/skills/`) and invoke it with `/<skill-name>` in Claude Code.
+Drop the skill directory into your coding agent's skills folder (e.g. `~/.claude/skills/` or a project's `.claude/skills/`) and invoke it with `/<skill-name>`.
