@@ -1,4 +1,4 @@
-# myskills
+# usefulSkills
 
 A collection of personal [Claude Code](https://github.com/anthropics/claude-code) skills.
 
