@@ -18,6 +18,12 @@ Optionally accepts a file path — e.g. `/grill-me spec.md` — to load the plan
 
 Adapted from [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/grill-me).
 
+### [`karpathy-guidelines`](./karpathy-guidelines/SKILL.md)
+
+Behavioral guidelines to reduce common LLM coding mistakes: think before coding, prefer simplicity, make surgical changes, and define verifiable success criteria.
+
+Adapted from [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines), derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
+
 ## Using these skills
 
 Drop the skill directory into your coding agent's skills folder (e.g. `~/.claude/skills/` or a project's `.claude/skills/`) and invoke it with `/<skill-name>`.
